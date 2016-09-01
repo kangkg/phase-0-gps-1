@@ -12,4 +12,4 @@ git status: shows the status of any changed files that may need to be added or c
 version control: a system of safety precautions to keep track of what people do. makes checkpoints to revert if needed. 
 untracked: file has been changed. 
 tracked: we have performed "git add" but we haven't committed the changes. we haven't made a checkpoint.
-committed: we have performed the "git commit." we have now created a checkpoint to which we can revert back if needed. 
+committed: we have performed the "git commit." we have now created a checkpoint to which we can revert back if needed..
