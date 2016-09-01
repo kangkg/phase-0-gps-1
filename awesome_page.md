@@ -9,3 +9,6 @@
 ![Screenshot of GPS](GPS Screenshot.PNG)
 
 [Differences between inline elements and codeblock](https://www.impressivewebs.com/difference-block-inline-css/)
+
+This is NOT a small change!
+
